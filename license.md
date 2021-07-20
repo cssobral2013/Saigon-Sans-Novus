@@ -1,5 +1,5 @@
 Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)
-Copyright 2021 Cristiano Sobral (cssobral2013@gmail.com)
+Copyright 2021 The Saigon Sans Novus Project Authors (https://github.com/cssobral2013/Saigon-Sans-Novus)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
