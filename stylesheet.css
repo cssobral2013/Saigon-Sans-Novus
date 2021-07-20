@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-ExtraLight.woff2') format('woff2'),
+        url('web/SaigonSansNovus-ExtraLight.woff') format('woff'),
+        url('ttf/SaigonSansNovus-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-ExtraLightItalic.woff2') format('woff2'),
+        url('web/SaigonSansNovus-ExtraLightItalic.woff') format('woff'),
+        url('ttf/SaigonSansNovus-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-Light.woff2') format('woff2'),
+        url('web/SaigonSansNovus-Light.woff') format('woff'),
+        url('ttf/SaigonSansNovus-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-LightItalic.woff2') format('woff2'),
+        url('web/SaigonSansNovus-LightItalic.woff') format('woff'),
+        url('ttf/SaigonSansNovus-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-Regular.woff2') format('woff2'),
+        url('web/SaigonSansNovus-Regular.woff') format('woff'),
+        url('web/SaigonSansNovus-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-Italic.woff2') format('woff2'),
+        url('web/SaigonSansNovus-Italic.woff') format('woff'),
+        url('ttf/SaigonSansNovus-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-Medium.woff2') format('woff2'),
+        url('web/SaigonSansNovus-Medium.woff') format('woff'),
+        url('ttf/SaigonSansNovus-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-MediumItalic.woff2') format('woff2'),
+        url('web/SaigonSansNovus-MediumItalic.woff') format('woff'),
+        url('ttf/SaigonSansNovus-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-SemiBold.woff2') format('woff2'),
+        url('web/SaigonSansNovus-SemiBold.woff') format('woff'),
+        url('ttf/SaigonSansNovus-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-SemiBoldItalic.woff2') format('woff2'),
+        url('web/SaigonSansNovus-SemiBoldItalic.woff') format('woff'),
+        url('ttf/SaigonSansNovus-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-Bold.woff2') format('woff2'),
+        url('web/SaigonSansNovus-Bold.woff') format('woff'),
+        url('ttf/SaigonSansNovus-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-BoldItalic.woff2') format('woff2'),
+        url('web/SaigonSansNovus-BoldItalic.woff') format('woff'),
+        url('ttf/SaigonSansNovus-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-ExtraBold.woff2') format('woff2'),
+        url('web/SaigonSansNovus-ExtraBold.woff') format('woff'),
+        url('ttf/SaigonSansNovus-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Saigon Sans Novus';
+    src: url('web/SaigonSansNovus-ExtraBoldItalic.woff2') format('woff2'),
+        url('web/SaigonSansNovus-ExtraBoldItalic.woff') format('woff'),
+        url('ttf/SaigonSansNovus-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
