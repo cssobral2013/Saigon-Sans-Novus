@@ -2,5 +2,6 @@
 
 Is developed from: https://github.com/bettergui/BeVietnamPro
 
-Changes include: new '1', and '4', reduced default leading, changed italic angle to 15 degrees
-(from 12), and added some Latin support.
+Changes include: imported 1 and 7 from alternative glyphs, reduced default leading, make posture multiplexed
+(so roman and italic share same widths), changed italic angle from 12 to 15 degrees,
+and added some Latin support.
